@@ -5,7 +5,7 @@
 
 Weather Vue is a website that allows users to search for a location and receive a 7 day forecast.
 
-Powered by [mapbox](https://www.mapbox.com/) and Dark Sky [OpenStreetMap](https://darksky.net/dev).
+Powered by [mapbox](https://www.mapbox.com/) and [Dark Sky](https://darksky.net/dev).
 
 You can visit the Weather Vue website demo [here](https://priceless-banach-b6fedf.netlify.com/).
 
