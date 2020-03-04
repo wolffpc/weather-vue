@@ -1,6 +1,5 @@
 # Weather Vue
 
-![GitHub repo size](https://img.shields.io/github/repo-size/wolffpc/weather-vue)
 ![David](https://img.shields.io/david/wolffpc/weather-vue)
 
 
