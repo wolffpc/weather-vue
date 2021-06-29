@@ -75,7 +75,7 @@ export default {
       this.fetchWeather(features[0].center[1], features[0].center[0])
     },
     async fetchWeather (latitude, longitude) {
-      const weather = await fetch(`https://cors-anywhere.herokuapp.com/${this.api_base}${this.api_key}/${latitude},${longitude}`)
+      const weather = await fetch(`https://agile-caverns-95075.herokuapp.com/${this.api_base}${this.api_key}/${latitude},${longitude}`)
         .then(response => response.json())
       this.weather = weather
     },
